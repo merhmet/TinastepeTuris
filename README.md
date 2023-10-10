@@ -5,7 +5,7 @@
 
 **TR |** Aynı anda birden fazla haber kanalını, televizyonu ya da YouTube kanalını izleyebileceğiniz bir çoklu ekran uygulaması.
 
-#### Çevrim içi adres / Online address: [(https://lab.mertskaplan.com/multitv](https://merhmet.github.io/TinastepeTuris/)](https://merhmet.github.io/TinastepeTuris/) "[https://lab.mertskaplan.com/multitv](https://merhmet.github.io/TinastepeTuris/)")
+#### Çevrim içi adres / Online address: [([[https://lab.mertskaplan.com/multitv](https://merhmet.github.io/TinastepeTuris)](https://merhmet.github.io/TinastepeTuris/)](https://merhmet.github.io/TinastepeTuris/)](https://merhmet.github.io/TinastepeTuris/) "[https://lab.mertskaplan.com/multitv](https://merhmet.github.io/TinastepeTuris/)")
 
 ## Açıklamalar (tr)
  - 16:9 oranındaki ekranlar için **4, 9, 16 ve 25 kanal**ı aynı anda izleme seçeneği üzerine hazırlandı. 1.5 numaralı sürümle birlikte kanal sayısının isteğe göre belirlenebilmesi sağlandı.
